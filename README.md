@@ -160,23 +160,38 @@ I'm a Computer Science student specialized in **Web Development** and **Explorin
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarsharma12&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsharma12&layout=compact&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhikaju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhikaju&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=utkarsharma12&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=nidhikaju&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nidhikaju&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nidhikaju&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nidhikaju&theme=tokyonight" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nidhikaju&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nidhikaju&theme=tokyonight&utcOffset=5.5" width="49%"/>
 </p>
 
 ---
 
 ## 🎯 2026 Goals
 
-* 🚀 Master React & Full-Stack Development
+* 🚀 Master AI and Machine Learning Technologies
 * 🤖 Build Production-Ready AI Applications
-* 🧠 Develop Advanced Agentic AI Systems
-* 🎮 Create a Complete Game Prototype with Unity
+* 🧠 Develop Advanced Application using Agentic AI
 * 🌍 Contribute to Open Source Projects
 * 📚 Strengthen Software Engineering Skills
 
@@ -205,13 +220,13 @@ Game Development
 
 ## 🌐 Connect With Me
 
-📧 Email: **[utkarshsharma222555@gmail.com](mailto:utkarshsharma222555@gmail.com)**
+📧 Email: **[nidhisharma999000@gmail.com](mailto:nidhisharma999000@gmail.com)**
 
 💼 LinkedIn:
-https://www.linkedin.com/in/utkarsh-sharma-500b22278
+[https://www.linkedin.com/in/nidhi-sharma-8a594b278]
 
 🐙 GitHub:
-https://github.com/utkarsharma12
+[https://github.com/nidhikaju](https://github.com/nidhikaju)
 
 🌍 Portfolio:
 **Coming Soon...**
@@ -225,7 +240,7 @@ https://github.com/utkarsharma12
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarsharma12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=nidhikaju&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
