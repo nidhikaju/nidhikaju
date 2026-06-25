@@ -3,14 +3,14 @@
 <h3 align="center">🚀 Full Stack Developer | SpringBoot | Interactive UI Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Aspiring+Game+Developer;React+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Creative+Web+Developer;AI+Integration;React+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Computer Science student specialized in **Web Development** and **Artificial Intelligence**, passionate about building intelligent applications, modern web experiences, and future game development projects.
+I'm a Computer Science student specialized in **Web Development** and **Exploring Artificial Intelligence**, passionate about building intelligent applications, modern web experiences, and future game development projects.
 
 * 🎓 B.Tech CSE 
 * 🤖 Exploring **Web Technologies**, **Databases**, and **Generative AI**
